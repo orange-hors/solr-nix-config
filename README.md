@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Moved to [Codeberg](https://codeberg.org/solrthefilly/solr-nix-config/)
+
 # Solr's silly NixOS configuration
 
 > [!CAUTION]
